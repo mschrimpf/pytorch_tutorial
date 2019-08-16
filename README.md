@@ -12,7 +12,7 @@ presented on 21 Aug 2019 at the [MIT-Harvard Theoretical and Computational Neuro
 
 
 ## Setup
-If you have conda (suggested), run
+If you have [conda](https://docs.conda.io/en/latest/miniconda.html) (suggested), run
 ```
 conda install numpy matplotlib seaborn jupyter tqdm
 conda install pytorch torchvision -c pytorch
@@ -26,3 +26,7 @@ For this tutorial, please have a [jupyter](https://jupyter.org/) notebook server
 
 
 ## More ressources
+
+* [PyTorch examples](https://github.com/pytorch/examples), a collection of sample code for vision, text, RL etc.
+* [fast.ai](https://www.fast.ai/), a practical deep learning course built with PyTorch
+* [Andrew Ng's coursera course](https://www.coursera.org/learn/machine-learning), the first and still very relevant Machine Learning course with theory and practices
