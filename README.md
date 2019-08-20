@@ -17,7 +17,7 @@ If you have [conda](https://docs.conda.io/en/latest/miniconda.html) (suggested),
 conda install numpy matplotlib seaborn jupyter tqdm
 conda install pytorch torchvision -c pytorch
 ```
-You can also `pip install "pytorch_tutorial @ git+https://github.com/mschrimpf/pytorch_tutorial", 
+You can also `pip install "pytorch_tutorial @ git+https://github.com/mschrimpf/pytorch_tutorial"`, 
 or `pip install` by hand.
 
 In general, I also recommend using the [PyCharm IDE](https://www.jetbrains.com/pycharm/), but you can use whatever you are comfortable with.
