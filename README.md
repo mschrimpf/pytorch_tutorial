@@ -3,6 +3,8 @@ presented on 21 Aug 2019 at the [MIT-Harvard Theoretical and Computational Neuro
 
 **Author**: Martin Schrimpf \[[github](https://github.com/mschrimpf)\] \[[scholar](https://scholar.google.com/citations?user=RiZ-RdwAAAAJ)\]
 
+Link to notebook: https://nbviewer.jupyter.org/github/mschrimpf/pytorch_tutorial/blob/master/tutorial.ipynb
+
 
 ## Goals of this tutorial
 
